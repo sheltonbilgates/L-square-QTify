@@ -14,10 +14,10 @@ const Footer = () => {
 			<div className={styles.second_col}>
 				<h2 className={styles.link_header}>Contact</h2>
 				<ul className={styles.link_items}>
-					<li>Bengaluru, India</li>
-					<li>qtify@gmail.com</li>
-					<li>+91 7789874574254</li>
-					<li>02145-54214525</li>
+					<li>Chennai, India</li>
+					<li>qtify-sheltonbilgates@gmail.com</li>
+					<li>+91 95143 23220</li>
+					<li>=91 82482 31535</li>
 				</ul>
 			</div>
 		</div>
